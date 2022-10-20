@@ -5,6 +5,8 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/drptinfo)](https://twitter.com/drptinfo)
 <!-- [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/TreinaWeb)](https://www.youtube.com/user/TreinaWeb) -->
 
+
+<!--
 ### About me
 I'm a {backend, frontend and mobile} developer and technical instructor at [@treinaweb](https://www.treinaweb.com.br/).
 
@@ -17,7 +19,7 @@ I'm a {backend, frontend and mobile} developer and technical instructor at [@tre
 
 
 
-<!-- ### Hi there 👋 -->
+ ### Hi there 👋 -->
 
 <!--
 **drptinfo/drptinfo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
